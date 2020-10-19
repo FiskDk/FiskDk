@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **NodeJS, HTML, JS**
 
-- 📫 How to reach me **Spooky Jayy#4296 on Discord**
+- 📫 How to reach me **Jayy#4296 on Discord**
 
 - ⚡ Fun fact **foxes are cool!**
 
