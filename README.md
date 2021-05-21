@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiskdk" alt="fiskdk" /> </p>
 
-- 🔭 I’m currently working on [Disco-RD](https://disco-rd.xyz)
+- 🔭 I’m currently working on [Samsung iTest](https://github.com/FiskDk/samsung-itest)
 
 - 🌱 I’m currently learning **C++**
 
